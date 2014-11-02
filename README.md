@@ -1,8 +1,8 @@
 # Geehiga Portal by Brunch with Chaplin
-![bwc-logo](http://brunch.io/images/svg/brunch.svg)
+![bwc-logo](http://41.media.tumblr.com/87367a35c55ae6e2a35aaf8e884b9de5/tumblr_n1i1mzFGFU1toz3s1o1_500.jpg)
 
 This is HTML5 application, built with
-[Brunch](http://brunch.io) and [Chaplin](http://41.media.tumblr.com/87367a35c55ae6e2a35aaf8e884b9de5/tumblr_n1i1mzFGFU1toz3s1o1_500.jpg).
+[Brunch](http://brunch.io) and [Chaplin](http://chaplinjs.org)
 
 * [CoffeeScript version](https://github.com/paulmillr/brunch-with-chaplin) | [JavaScript version](https://github.com/paulmillr/brunch-with-chaplin-js)
 
